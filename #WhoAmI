@@ -1,0 +1,4 @@
+#WhoAmI
+def WhoAmI():
+    return('ks4173')
+print(WhoAmI())
